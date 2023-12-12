@@ -1,5 +1,11 @@
 <p align="center">
   <br>
+  <div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+<br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ilyasse</a></b>.
     <br>I'm a Full-stack Developer studying from Pistoia, Toscana.<br>
