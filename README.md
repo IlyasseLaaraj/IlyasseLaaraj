@@ -31,8 +31,8 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
   &nbsp; &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
@@ -48,4 +48,4 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </samp>
 </details>
 
-⭐️ From [TanZng](https://github.com/TanZng)
+//⭐️ From [TanZng](https://github.com/TanZng)
