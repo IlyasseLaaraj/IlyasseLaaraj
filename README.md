@@ -1,7 +1,6 @@
 <p align="center">
   <br>
 
-https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/6a90caf0-4a03-47e8-95c7-435c41f7ed51
 
 <br>
   <samp>
