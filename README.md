@@ -28,21 +28,8 @@
 Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://instagram.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/instagram.png" width="30px" alt="Twitter"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+ <a href="www.linkedin.com/in/ilyasse-laaraj-b838a32a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[https://www.instagram.com/absphreak](https://instagram.com/ilyasse_laaraj?igshid=NGVhN2U2NjQ0Yg==)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p> 
 
 </samp>
