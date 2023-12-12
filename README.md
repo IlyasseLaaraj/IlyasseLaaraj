@@ -26,7 +26,7 @@ https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/4882a7ac-4a08-45
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project: <p> studying full-stack development at DEVELHOPE</p>
 
 <p align="center">
  <a href="www.linkedin.com/in/ilyasse-laaraj-b838a32a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -36,4 +36,4 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </samp>
 </details>
 
-//⭐️ From [TanZng](https://github.com/TanZng)
+<!-----⭐️ From [TanZng](https://github.com/TanZng) ----->
