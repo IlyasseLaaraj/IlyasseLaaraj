@@ -1,13 +1,8 @@
 <p align="center">
   <br>
-  <div align="center" width="50">
 
-<iframe width="560" height="315" src="https://youtu.be/MrZxdPAXIjE" frameborder="0" allowfullscreen></iframe>
 https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/6a90caf0-4a03-47e8-95c7-435c41f7ed51
 
-
-
-</div>
 <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ilyasse</a></b>.
