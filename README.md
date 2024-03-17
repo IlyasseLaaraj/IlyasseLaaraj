@@ -29,7 +29,7 @@ https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/4882a7ac-4a08-45
 Current Project: <p> studying full-stack development at DEVELHOPE</p>
 
 <p align="center">
- <a href="www.linkedin.com/in/ilyasse-laaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="www.linkedin.com/in/ilyasse-laaraj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p> 
 
 </samp>
