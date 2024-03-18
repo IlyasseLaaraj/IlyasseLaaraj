@@ -6,7 +6,7 @@ https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/4882a7ac-4a08-45
 <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ilyasse</a></b>.
-    <br>I'm a Full-stack Developer studying from Pistoia, Toscana.<br>
+    <br>Hi 👋🏻👋🏻 I'm Laaraj Ilyasse i'm 23 yo and i'm a Junior Full-Stack Web Developer from Pistoia, Toscana, Italy.<br>
 
 
 
