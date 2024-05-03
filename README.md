@@ -3,7 +3,7 @@
 <br>
   <samp>
     👋🏻👋🏻 Hello there!.
-    <br> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Laaraj Ilyasse</a></b> i'm 23 yo and i'm a Junior Full-Stack Web Developer from Toscana, Italy.<br>
+    <br> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/ilyasse-laaraj-b838a32a4/">Laaraj Ilyasse</a></b> i'm 23 yo and i'm a Junior Full-Stack Web Developer from Toscana, Italy.<br>
 
 
 
