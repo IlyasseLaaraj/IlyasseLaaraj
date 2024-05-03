@@ -9,9 +9,7 @@ https://github.com/IlyasseLaaraj/IlyasseLaaraj/assets/146626296/4882a7ac-4a08-45
 
 <div>
     [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=MrZxdPAXIjE)
-<iframe width="auto" height="auto"
-src="https://www.youtube.com/watch?v=MrZxdPAXIjE&ab_channel=IlyasseLaaraj">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrZxdPAXIjE?si=KlHpfO1ZA6dYuelK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ilyasse</a></b>.
