@@ -1,10 +1,5 @@
 
 <p align="center">
-  
-  <br>
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MrZxdPAXIjE?si=KlHpfO1ZA6dYuelK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ilyasse</a></b>.
