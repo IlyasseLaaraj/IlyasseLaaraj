@@ -29,7 +29,7 @@ Current Project: <p> Selfdevelopping myself to become the best FULL-STACK WEB DE
 <p>currently doin a stage as an intern at Advancia Technology</p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/ilyasse-laaraj-b838a32a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="www.linkedin.com/in/ilyasse-laaraj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p> 
 
 </samp>
