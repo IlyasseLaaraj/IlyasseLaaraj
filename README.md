@@ -5,7 +5,7 @@
 <br>
   <samp>
     👋🏻👋🏻 Hello there!.
-    <br> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/ilyasse-laaraj/">Laaraj Ilyasse</a></b> i'm 24 yo and i'm a Junior Full-Stack Web Developer from Toscana, Italy.<br>
+    <br> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/ilyasse-laaraj/">Laaraj Ilyasse</a></b> i'm 26 yo and i'm a Junior Full-Stack and ETL Developer from Toscana, Italy. <br>
 
 
 
@@ -25,8 +25,8 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <p> Selfdevelopping myself to become the best FULL-STACK WEB DEVELOPER i can possibly be. </p>
-<p>currently doin a stage as an intern at Advancia Technology</p>
+Current Project: <p> Selfdevelopping myself in most fileds to find the best that suits me, if it exists !. </p>
+<p></p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ilyasse-laaraj/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
